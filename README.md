@@ -5,7 +5,9 @@
 
 ## Done:
 
--
+- Setup styled-coponents & Global styles ✅
+- Add TypeScript ✅
+- Install Prettier/eslint ✅
 
 ---
 
