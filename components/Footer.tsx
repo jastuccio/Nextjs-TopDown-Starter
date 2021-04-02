@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+const StyledFooter = styled.footer``;
+
 export default function Footer() {
-  return <p>Footer Component</p>;
+  return <StyledFooter>Footer Component</StyledFooter>;
 }

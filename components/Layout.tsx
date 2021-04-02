@@ -1,6 +1,6 @@
-/**********************************************************
+/** ********************************************************
  * Page layout - Global styles and any components that should be on all pages go here
- **********************************************************/
+ ********************************************************* */
 
 import styled, { createGlobalStyle } from 'styled-components';
 
@@ -51,7 +51,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Header />
-      {children}
+      <main>{children}</main>
       <Footer />
       <GlobalStyles />
     </>

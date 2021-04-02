@@ -1,6 +1,20 @@
+## Todo:
+
+- replace favicon
+- build something awesome!
+
+## Done:
+
+-
+
+---
+
 My [Next.js](https://nextjs.org/) starter with:
 
 - TypeScript
+- ESLint & Prettier
+- Styled Components
+- Webpack 5
 
 ## Getting Started
 

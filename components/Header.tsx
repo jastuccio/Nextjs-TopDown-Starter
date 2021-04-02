@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 
+const StyledHeader = styled.header``;
+
 export default function Header() {
-  return <p>Header Component</p>;
+  return <StyledHeader>Header Component</StyledHeader>;
 }
